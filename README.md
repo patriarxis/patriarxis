@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey! I am Fotios, a creative developer.
+*I create immersive digital experiences for the web.*
 
-<!--
-**patriarxis/patriarxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm Fotios, a hybrid designer and developer based in Greece. With a strong IT background and a passion for design, I seamlessly blend technology and creativity to craft visually captivating interfaces and deliver exceptional user experiences.
 
-Here are some ideas to get you started:
+### Tools of the trade
+**Design**: Figma, Photoshop, Illustrator, Framer, After Effects, Adobe XD, InDesign, Creative Cloud  
+**Programming**: HTML, CSS, JavaScript, jQuery, React, Vue.js, Bootstrap, Tailwind, SASS, Python, Java, C, Android, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch:
+Email: fotios.pechlivanis@gmail.com  
+Personal site: [patriarxis.com](https://patriarxis.com)  
+Dribbble: [dribbble.com/patriarxis](https://dribbble.com/patriarxis)  
+LinkedIn: [linkedin.com/in/patriarxis](https://linkedin.com/in/patriarxis)  
+
+Feel free to contact me at any time. Let's connect and bring your digital vision to life!
