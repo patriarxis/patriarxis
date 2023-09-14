@@ -13,4 +13,4 @@ Personal site: [patriarxis.com](https://patriarxis.com)
 Dribbble: [dribbble.com/patriarxis](https://dribbble.com/patriarxis)  
 LinkedIn: [linkedin.com/in/patriarxis](https://linkedin.com/in/patriarxis)  
 
-Feel free to contact me at any time. Let's connect and bring your digital vision to life!
+Feel free to contact me at any time.
