@@ -1,5 +1,5 @@
-## Hey! I am Fotios, a creative developer.
-***I make stuff for the web.***
+## Hey! I am Fotios, I make stuff for the web
+**UI/UX Designer | Front-End Developer**
 
 With a strong IT background and a passion for design, I seamlessly blend technology and creativity to craft visually captivating interfaces and deliver exceptional user experiences.
 
