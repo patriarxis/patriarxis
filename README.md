@@ -3,14 +3,6 @@
 
 With a strong IT background and a passion for design, I seamlessly blend technology and creativity to craft visually captivating interfaces and deliver exceptional user experiences.
 
-### Tools of the trade
-
-> **Design**:
-> Figma, Photoshop, Illustrator, Framer, After Effects, Adobe XD, InDesign, Creative Cloud  
-
-> **Programming**:
-> HTML, CSS, JavaScript, React, Vue, Tailwind, SASS, htmx, Thymeleaf, Python, Git
-
 ### Get in touch:
 Email: fotios.pechlivanis@gmail.com  
 Personal site: [patriarxis.com](https://patriarxis.com)  
