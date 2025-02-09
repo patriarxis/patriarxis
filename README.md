@@ -11,6 +11,12 @@ LinkedIn: [linkedin.com/in/patriarxis](https://linkedin.com/in/patriarxis)
 
 _Feel free to contact me at any time._
 
+### My Tools
+
+[Signet](https://signet.patriarxis.com) _- Email Signatures Library_  
+[Cipher](https://cipher.patriarxis.com) _- Password Generator_  
+[Simplepad](https://simplepad.patriarxis.com) _- Quick Notepad_  
+
 ### Donate
 
 > **Buy me a coffee**  
