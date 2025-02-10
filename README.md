@@ -11,8 +11,8 @@ LinkedIn: [linkedin.com/in/patriarxis](https://linkedin.com/in/patriarxis)
 
 ### My Tools
 
-[Cipher](https://favigo.patriarxis.com) _- Password Generator_  
-[Favigo](https://cipher.patriarxis.com) _- Preview Your Favicon_  
+[Cipher](https://cipher.patriarxis.com) _- Password Generator_  
+[Favigo](https://favigo.patriarxis.com) _- Preview Your Favicon_  
 [Signet](https://signet.patriarxis.com) _- Email Signatures Library_    
 [Simplepad](https://simplepad.patriarxis.com) _- Quick Notepad_  
 
